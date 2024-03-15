@@ -28,7 +28,7 @@ test:
     - pip check
   requires:
     - pip
- 
+
 about:
   home: https://github.com/kunaldeo/django-keyedcache3
   summary: keyedcache
@@ -38,3 +38,4 @@ about:
 extra:
   recipe-maintainers:
     - mxr-conda
+    - rxm7706
